@@ -5,8 +5,27 @@
     "description": "This is a test of the Threat Dragon threat modeling tool."
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Justin"
+      },
+      {
+        "name": "Sruthi"
+      },
+      {
+        "name": "Eddy"
+      },
+      {
+        "name": "Natalya"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "This is a false Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Matt James"
   }
 }
