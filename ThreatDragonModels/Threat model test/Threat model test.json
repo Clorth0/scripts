@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat model test",
+    "owner": "Matt James",
+    "description": "This is a test of the Threat Dragon threat modeling tool."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Matt James"
+  }
+}
